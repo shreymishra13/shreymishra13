@@ -5,7 +5,7 @@
 
 - 🔭 Currently working at **4AI ODC** on scalable REST APIs and Microservices for global transaction systems
 - ⚡ Reduced API response time by **50%** and cut production incident resolution by **30%**
-- 🎓 Pursuing **MCA from HBTI** (2024–26)
+- 🎓 Post Graduated in **MCA from HBTI** (2024–25)
 - 📬 Reach me at: mishra.shrey001@gmail.com
 - 🌐 Portfolio: https://shreymishra13.github.io/Portfolio/
 - 💼 Open to: **Remote Java/Spring Boot roles**
